@@ -1,0 +1,9 @@
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\bin\Debug\random computer AI 26 5 2019.exe.config
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\bin\Debug\random computer AI 26 5 2019.exe
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\bin\Debug\random computer AI 26 5 2019.pdb
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\obj\Debug\random computer AI 26 5 2019.csprojResolveAssemblyReference.cache
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\obj\Debug\random_computer_AI_26_5_2019.Form1.resources
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\obj\Debug\random_computer_AI_26_5_2019.Properties.Resources.resources
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\obj\Debug\random computer AI 26 5 2019.csproj.GenerateResource.Cache
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\obj\Debug\random computer AI 26 5 2019.exe
+c:\users\mohamed ali\documents\visual studio 2017\Projects\random computer AI 26 5 2019\random computer AI 26 5 2019\obj\Debug\random computer AI 26 5 2019.pdb
